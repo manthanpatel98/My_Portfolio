@@ -1,6 +1,6 @@
 
 
-<img src="/Images/My_pic.jpg" align="right" width=250 height=250>
+<img src="/Images/My_pic.jpg" width="250" height="250">
 
 # **Manthan Patel**
 
@@ -21,7 +21,7 @@
 
 ### [**Web App on Heroku**](https://alcoholqualitychecker.herokuapp.com/)
 
-<img src="/Images/AlcoholQuality.gif" width=700 height=700>
+<img src="/Images/AlcoholQuality.gif" height="500" />
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### [**Web App on Heroku**](https://titanicdisaster.herokuapp.com/)
 
-<img src="/Images/Titanic-Disaster.gif" width=700 height=700>
+<img src="/Images/Titanic-Disaster.gif" height="500" />
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### [**Web App on Heroku**](https://spamclassifiersms.herokuapp.com/)
 
-<img src="/Images/Spam.gif" width=700 height=700>
+<img src="/Images/Spam.gif" height="500" />
 
 
 ---
@@ -59,7 +59,7 @@
 
 ### [**Web App on Heroku**](https://restaurantreviewsentiment.herokuapp.com/)
 
-<img src="/Images/RestaurantGIF.gif" width=700 height=700>
+<img src="/Images/RestaurantGIF.gif" height="500" />
 
 
 ---
