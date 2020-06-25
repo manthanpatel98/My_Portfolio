@@ -1,4 +1,6 @@
-# **My_Portfolio**
+<img src="/Images/My_pic1.png" width=300 height=300>
+
+# **Manthan Patel**
 **Here are the Projects & Dashboards that I have made.**
 
 ---
