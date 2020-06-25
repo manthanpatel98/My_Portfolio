@@ -17,3 +17,18 @@
 * I have used **Count/Frequency Encoding** Technique for **Feature Encoding**.
 * I have applied many different algorithms but at the end, **KNN** gave better results.
 ---
+
+## [**Project 3: Spam Classifier**](https://github.com/manthanpatel98/SpamClassifier)
+* Message and its final output is separated by Tab space.
+* From the Dataset, we have to predict the **label** column: 
+* **PortStemmer** method has been used for **Stemming**.
+* I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
+---
+
+## [**Project 4: Restaurant Review Sentiment Analysis**](https://github.com/manthanpatel98/Restaurant-Review-Sentiment-Analysis)
+* Dataset has **10000 rows** and **8 columns**.
+* We have to predict whether a review is **"Positive"** or **"Negative"**.
+* **PortStemmer** method has been used for **Stemming**.
+* I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
+
+---
