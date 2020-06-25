@@ -1,5 +1,5 @@
 
-![](/Images/%20My_pic.jpg)
+![](/Images/My_pic.jpg)
 
 # **Manthan Patel**
 
