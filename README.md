@@ -1,4 +1,4 @@
-<img src="/Images/My_pic1.png" width=300 height=300>
+<img src="/Images/My_pic1.png" align="right" width=250 height=250>
 
 # **Manthan Patel**
 **Here are the Projects & Dashboards that I have made.**
