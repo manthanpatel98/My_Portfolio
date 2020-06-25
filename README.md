@@ -1,7 +1,11 @@
 # **My_Portfolio**
-**Here are the Projects that I have done.**
+**Here are the Projects & Dashboards that I have made.**
 
 ---
+
+# **The Projects**
+---
+
 ## [**Project 1: Alcohol Quality Checker**](https://github.com/manthanpatel98/Alcohol-Quality-Checker)
 * The Dataset has **'density'**, **'pH'**, **'sulphates'**, **'alcohol'**, **'Quality_Category'** columns. It has **4898 rows** and **5 columns**.
 * From the Dataset, we have to predict the **Quality of Alcohol**: **"High"** or **"Low"**.
@@ -52,3 +56,7 @@
 
 
 ---
+# **The Dashboards**
+
+## **Dashboard 1: UFC**
+![UFC](/Images/UFC.gif)
