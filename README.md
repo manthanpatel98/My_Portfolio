@@ -8,6 +8,10 @@
 * **ExtraTreesClassifier** has been used for Feature Selection.
 * I have applied **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification** and **SVM** algorithms but at the end, **KNN** gave better results.
 
+### [**Web App on Heroku**](https://alcoholqualitychecker.herokuapp.com/)
+
+![AlcoholQualityChecker](/Images/AlcoholQuality.gif)
+
 ---
 
 ## [**Project 2: Titanic Disaster**](https://github.com/manthanpatel98/Titanic)
@@ -17,6 +21,8 @@
 * I have used **Count/Frequency Encoding** Technique for **Feature Encoding**.
 * I have applied many different algorithms but at the end, **KNN** gave better results.
 
+### [**Web App on Heroku**](https://titanicdisaster.herokuapp.com/)
+
 ---
 
 ## [**Project 3: Spam Classifier**](https://github.com/manthanpatel98/SpamClassifier)
@@ -25,6 +31,9 @@
 * **PortStemmer** method has been used for **Stemming**.
 * I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
 
+### [**Web App on Heroku**](https://spamclassifiersms.herokuapp.com/)
+
+
 ---
 
 ## [**Project 4: Restaurant Review Sentiment Analysis**](https://github.com/manthanpatel98/Restaurant-Review-Sentiment-Analysis)
@@ -32,5 +41,8 @@
 * We have to predict whether a review is **"Positive"** or **"Negative"**.
 * **PortStemmer** method has been used for **Stemming**.
 * I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
+
+### [**Web App on Heroku**](https://restaurantreviewsentiment.herokuapp.com/)
+
 
 ---
