@@ -1,4 +1,4 @@
-<img src="/Images/My_pic.jpg" width=100 height=100>
+<img src="/Images/My_pic.jpg" width=250 height=250>
 
 
 # **Manthan Patel**
