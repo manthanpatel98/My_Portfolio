@@ -1,6 +1,6 @@
 
 
-<img src="/Images/Corona.gif" align="right" width=250 height=250>
+<img src="/Images/My_pic.jpg" align="right" width=250 height=250>
 
 # **Manthan Patel**
 
