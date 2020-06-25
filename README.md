@@ -105,9 +105,9 @@ A Dashboard for Occupation Analysis with **Tableau**.
 
 ---
 
-## **Dashboard 7: Occupation Analysis**
+## **Dashboard 7: Sales Analysis**
 A Dashboard for Sales Analysis with **Tableau**.
-![Sales](/Images/Sales%20Analysis.gif)
+![Sales](Images/Sales%20Analysis.gif)
 
 ---
 
