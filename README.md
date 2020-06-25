@@ -105,7 +105,7 @@ A Dashboard for Sales Analysis with **Tableau**.
 ---
 
 ## **Dashboard 8: Traffic-Deaths**
-A Dashboard about Traffic Deaths all over the world.
+A Dashboard about Traffic Deaths all over the world with **Tableau**.
 ![Traffic](/Images/Traffic-Deaths.png)
 
 ---
