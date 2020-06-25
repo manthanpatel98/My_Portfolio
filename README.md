@@ -1,6 +1,5 @@
 
-
-<img src="/Images/My_pic.jpg" width="250" height="250">
+![](/Images/%20My_pic.jpg)
 
 # **Manthan Patel**
 
