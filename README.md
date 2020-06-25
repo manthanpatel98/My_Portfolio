@@ -14,7 +14,7 @@
 
 ### [**Web App on Heroku**](https://alcoholqualitychecker.herokuapp.com/)
 
-![AlcoholQualityChecker](/Images/AlcoholQuality.gif)
+<img src="/Images/AlcoholQuality.gif" width=700 height=700>
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### [**Web App on Heroku**](https://titanicdisaster.herokuapp.com/)
 
-![TitanicDisaster](/Images/Titanic-Disaster.gif)
+<img src="/Images/Titanic-Disaster.gif" width=700 height=700>
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### [**Web App on Heroku**](https://spamclassifiersms.herokuapp.com/)
 
-![SpamClassifier](/Images/Spam.gif)
+<img src="/Images/Spam.gif" width=700 height=700>
 
 
 ---
@@ -52,7 +52,7 @@
 
 ### [**Web App on Heroku**](https://restaurantreviewsentiment.herokuapp.com/)
 
-![Restaurant Review](/Images/RestaurantGIF.gif)
+<img src="/Images/RestaurantGIF.gif" width=700 height=700>
 
 
 ---
