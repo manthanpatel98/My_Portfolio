@@ -23,6 +23,8 @@
 
 ### [**Web App on Heroku**](https://titanicdisaster.herokuapp.com/)
 
+![TitanicDisaster](/Images/Titanic-Disaster.gif)
+
 ---
 
 ## [**Project 3: Spam Classifier**](https://github.com/manthanpatel98/SpamClassifier)
@@ -32,6 +34,8 @@
 * I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
 
 ### [**Web App on Heroku**](https://spamclassifiersms.herokuapp.com/)
+
+![SpamClassifier](/Images/Spam.gif)
 
 
 ---
@@ -43,6 +47,8 @@
 * I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
 
 ### [**Web App on Heroku**](https://restaurantreviewsentiment.herokuapp.com/)
+
+![Restaurant Review](/Images/RestaurantGIF.gif)
 
 
 ---
