@@ -1,9 +1,12 @@
-<img src="/Images/My_pic.jpg" width=250 height=250>
+
 
 
 # **Manthan Patel**
 
+
+
 **Here are the Projects & Dashboards that I have made.**
+<img src="/Images/My_pic.jpg" align="right" width=250 height=250>
 
 ---
 
