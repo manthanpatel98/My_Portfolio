@@ -1,5 +1,5 @@
 
-<img src="https://github.com/manthanpatel98/My_Portfolio/blob/master/Images/My_pic.jpg" width="250" height="250">
+<img src="Images/My_pic.jpg" width="250" height="250">
 # **Manthan Patel**
 
 
