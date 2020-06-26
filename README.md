@@ -79,10 +79,10 @@ This Dashboard projects violence data in USA with **Tableau**.
 
 ## **Dashboard 3: Retail Analysis**
 Retail Data Analysis with **Power BI**.
-### Number 1:
+### Number 1: Summary
 ![Part1](/Images/Retail.gif)
 
-### Number 2:
+### Number 2: Detailed
 ![Part2](/Images/Retail2.gif)
 
 ---
