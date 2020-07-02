@@ -34,7 +34,7 @@
 
 ### [**Web App on Heroku**](https://titanicdisaster.herokuapp.com/)
 
-<img src="Images/Titanic-Disaster.gif" width="60%" height="70%" />
+<img src="Images/Titanic-Disaster.gif" width="600" />
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### [**Web App on Heroku**](https://spamclassifiersms.herokuapp.com/)
 
-<img src="Images/Spam.gif" width="60%" height="70%" />
+<img src="Images/Spam.gif" width="600" />
 
 
 ---
@@ -59,7 +59,7 @@
 
 ### [**Web App on Heroku**](https://restaurantreviewsentiment.herokuapp.com/)
 
-<img src="Images/RestaurantGIF.gif" width="60%" height="70%" />
+<img src="Images/RestaurantGIF.gif" width="600" />
 
 
 ---
