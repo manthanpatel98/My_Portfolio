@@ -1,5 +1,5 @@
 
-<img src="Images/My_pic3.jpg" width="20%" height="20%">
+<img src="Images/My_pic3.jpg" width="250" height="250">
 
 
 # **Manthan Patel**
@@ -21,7 +21,7 @@
 
 ### [**Web App on Heroku**](https://alcoholqualitychecker.herokuapp.com/)
 
-<img src="Images/AlcoholQuality.gif" width="60%" height="70%" />
+<img src="Images/AlcoholQuality.gif" width="80%"  />
 
 ---
 
