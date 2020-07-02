@@ -21,7 +21,7 @@
 
 ### [**Web App on Heroku**](https://alcoholqualitychecker.herokuapp.com/)
 
-<img src="Images/AlcoholQuality.gif" width="80%"  />
+<img src="Images/AlcoholQuality.gif" width="90%" height="90%" />
 
 ---
 
