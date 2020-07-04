@@ -17,7 +17,7 @@
 * The Dataset has **'density'**, **'pH'**, **'sulphates'**, **'alcohol'**, **'Quality_Category'** columns. It has **4898 rows** and **5 columns**.
 * From the Dataset, we have to predict the **Quality of Alcohol**: **"High"** or **"Low"**.
 * **ExtraTreesClassifier** has been used for Feature Selection.
-* I have applied **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification** and **SVM** algorithms but at the end, **KNN** gave better results.
+* I have applied **Artificial Neural Network**, **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification** and **SVM** algorithms but at the end, **KNN** gave better results.
 
 ### [**Web App on Heroku**](https://alcoholqualitychecker.herokuapp.com/)
 
