@@ -120,5 +120,14 @@ A Dashboard about Traffic Deaths all over the world with **Tableau**.
 ## **Giving Back To Community**
 ### [**Instagram Account**](https://www.instagram.com/ds.learn/)
 
+---
+
+## **Contact Information**
+**Email: manthanpatel943@gmail.com**
+
+
+**LinkedIn: linkedin.com/in/manthan-patel-831489180**
+
+---
 
 
