@@ -55,7 +55,8 @@
 * Dataset has **10000 rows** and **8 columns**.
 * We have to predict whether a review is **"Positive"** or **"Negative"**.
 * **PortStemmer** method has been used for **Stemming**.
-* I have applied many different algorithms **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
+* I have also tried **WordEmbedding** with **LSTM**.
+* I have applied many different algorithms **LSTM**, **Bi-Directional LSTM**, **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
 
 ### [**Web App on Heroku**](https://restaurantreviewsentiment.herokuapp.com/)
 
