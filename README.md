@@ -10,7 +10,7 @@
 
 ---
 
-# **The Projects**
+# **Projects**
 ---
 
 ## [**Project 1: Alcohol Quality Checker**](https://github.com/manthanpatel98/Alcohol-Quality-Checker)
@@ -75,7 +75,7 @@
 
 ---
 
-# **The Dashboards**
+# **Dashboards**
 ---
 ## **Dashboard 1: UFC**
 I enjoy watching UFC fights so this was just for fun that I decided to explore UFC fights' Data with **Power BI**.
