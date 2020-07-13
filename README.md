@@ -64,6 +64,15 @@
 
 
 ---
+
+## [**Project 5: House Price Prediction (Kaggle)**]()
+* This is a Kaggle Competition Project.
+* **Train** and **Test** Dataset has almost same no. of columns and rows **(1460,81)**.
+* Various Techniques like **Target Guided Encoding**, **logarithmic transformation technique**, **StandardScaler**. **Hyperparameter-tuning** etc. has been used.
+* Algorithms like **RandomForestRegressor**, **Linear Regression**, **SVR**, **GradientBoostingRegressor** and **ANN** has been applied.
+
+
+
 # **The Dashboards**
 ---
 ## **Dashboard 1: UFC**
