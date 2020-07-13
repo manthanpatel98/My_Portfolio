@@ -71,7 +71,7 @@
 * Various Techniques like **Target Guided Encoding**, **logarithmic transformation technique**, **StandardScaler**. **Hyperparameter-tuning** etc. has been used.
 * Algorithms like **RandomForestRegressor**, **Linear Regression**, **SVR**, **GradientBoostingRegressor** and **ANN** has been applied.
 
-<img src="https://github.com/manthanpatel98/My_Portfolio/blob/master/Images/House-Image.jpg" width="600" />
+<img src="Images/House-Image.jpg" width="600" />
 
 ---
 
