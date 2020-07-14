@@ -67,9 +67,9 @@
 
 ## [**Project 5: House Price Prediction (Kaggle)**](https://github.com/manthanpatel98/House-Price-Prediction)
 * This is a Kaggle Competition Project.
-* **Train** and **Test** Dataset has almost same no. of columns and rows **(1460,81)**.
-* Various Techniques like **Target Guided Encoding**, **logarithmic transformation technique**, **StandardScaler**. **Hyperparameter-tuning** etc. has been used.
-* Algorithms like **RandomForestRegressor**, **Linear Regression**, **SVR**, **GradientBoostingRegressor** and **ANN** has been applied.
+* **Train** and **Test** Dataset have almost same no. of columns and rows **(1460,81)**.
+* Various Techniques like **Target Guided Encoding**, **logarithmic transformation technique**, **StandardScaler**. **Hyperparameter-tuning** etc. have been used.
+* Algorithms like **RandomForestRegressor**, **Linear Regression**, **SVR**, **GradientBoostingRegressor** and **ANN** have been applied.
 
 <img src="Images/House-Image.jpg" width="600" />
 
