@@ -75,7 +75,7 @@
 
 ---
 
-## [**Project 6: Website Checker)**](https://github.com/manthanpatel98/House-Price-Prediction)
+## [**Project 6: Website Checker)**](https://github.com/manthanpatel98/Website-Checker)
 * The Dataset has **2453 rows** and **31 columns**.
 * It has 31 **columns:**
 'having_IP_Address', 'URL_Length', 'Shortining_Service',
@@ -91,7 +91,7 @@
 * **ExtraTreesClassifier** has been used for Feature Selection.
 * I have applied **Artificial Neural Network**, **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification**, **Logistic Regression** and **SVM** algorithms but at the end, **RandomForestClassifier** gave better results.
 
-<img src="Images/House-Image.jpg" width="600" />
+<img src="Images/Phishing.png" width="600" />
 
 ---
 
