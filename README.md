@@ -166,7 +166,6 @@ A Dashboard about Traffic Deaths all over the world with **Tableau**.
 ---
 
 ## **Contact Information**
-**Email: manthanpatel943@gmail.com**
 
 
 **LinkedIn: [linkedin.com/in/manthan-patel-831489180/](https://www.linkedin.com/in/manthan-patel-831489180/)**
