@@ -75,7 +75,7 @@
 
 ---
 
-## [**Project 6: Website Checker)**](https://github.com/manthanpatel98/Website-Checker)
+## [**Project 6: Website Checker**](https://github.com/manthanpatel98/Website-Checker)
 * The Dataset has **2453 rows** and **31 columns**.
 * It has 31 **columns:**
 'having_IP_Address', 'URL_Length', 'Shortining_Service',
@@ -91,11 +91,14 @@
 * **ExtraTreesClassifier** has been used for Feature Selection.
 * I have applied **Artificial Neural Network**, **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification**, **Logistic Regression** and **SVM** algorithms but at the end, **RandomForestClassifier** gave better results.
 
+### [**Web App on Heroku**](https://websitechecker1.herokuapp.com/)
+
+
 <img src="Images/Phishing.gif" width="600" />
 
 ---
 
-## [**Project 7: Horse Racing)**](https://github.com/manthanpatel98/Horse-Racing-Project)
+## [**Project 7: Horse Racing**](https://github.com/manthanpatel98/Horse-Racing-Project)
 * An Assignment of Predicting **Odds** and **PoolTotal** for individual horse, for **next 3 Minutes** in Horse Racing from Dataset.
 * It is a non-stationary dataset.
 * Dataset has **900 rows** and **4 columns**.
