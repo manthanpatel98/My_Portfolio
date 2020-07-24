@@ -75,6 +75,26 @@
 
 ---
 
+## [**Project 6: Website Checker)**](https://github.com/manthanpatel98/House-Price-Prediction)
+* The Dataset has **2453 rows** and **31 columns**.
+* It has 31 **columns:**
+'having_IP_Address', 'URL_Length', 'Shortining_Service',
+ 'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix',
+       'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length',
+       'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor',
+       'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL',
+       'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe',
+       'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank',
+       'Google_Index', 'Links_pointing_to_page', 'Statistical_report',
+       'Result'
+* From the Dataset, we have to predict is the website is **Phishing** website or not.
+* **ExtraTreesClassifier** has been used for Feature Selection.
+* I have applied **Artificial Neural Network**, **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification**, **Logistic Regression** and **SVM** algorithms but at the end, **RandomForestClassifier** gave better results.
+
+<img src="Images/House-Image.jpg" width="600" />
+
+---
+
 # **Dashboards**
 ---
 ## **Dashboard 1: UFC**
