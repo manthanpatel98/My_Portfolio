@@ -91,7 +91,7 @@
 * **ExtraTreesClassifier** has been used for Feature Selection.
 * I have applied **Artificial Neural Network**, **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification**, **Logistic Regression** and **SVM** algorithms but at the end, **RandomForestClassifier** gave better results.
 
-<img src="Images/Phishing.png" width="600" />
+<img src="Images/Phishing.gif" width="600" />
 
 ---
 
