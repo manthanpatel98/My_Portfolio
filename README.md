@@ -98,13 +98,6 @@
 
 ---
 
-## [**Project 7: Horse Racing**](https://github.com/manthanpatel98/Horse-Racing-Project)
-* An Assignment of Predicting **Odds** and **PoolTotal** for individual horse, for **next 3 Minutes** in Horse Racing from Dataset.
-* It is a non-stationary dataset.
-* Dataset has **900 rows** and **4 columns**.
-* Using ARIMA for this Project.
-* Generating Predictions **(Odds and PoolTotal)** for Individual Horse.
-<img src="Images/Horse-Racing.jpg" width="600">
 
 # **Dashboards**
 ---
