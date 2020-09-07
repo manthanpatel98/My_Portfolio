@@ -6,7 +6,7 @@
 
 
 
-**Here are the Projects & Dashboards that I have made.**
+**Here are the Projects & Dashboards that I have made...**
 
 ---
 
