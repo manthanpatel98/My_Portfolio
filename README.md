@@ -119,7 +119,7 @@
 
 A Data Visualization For Extracted 60,000+ Movies/TV Shows Data.' with **Power BI**.
 
-<img src="/Images/IMDB.gif" width="600" />
+<img src="Images/IMDB.gif" width="600" />
 
 ---
 ## **Dashboard 2: UFC**
