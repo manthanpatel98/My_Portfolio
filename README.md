@@ -104,7 +104,7 @@
 * **MongoDB** is used to store the data in database.
 * Information like **'Title'**,**'Time Period'**,**'Rating'**,**'Genre'**,**'Duration'**,**'Votes'**,**'Directors'**,**'Stars'** and **'Description'** are extracted.
 * These information are collected for **60,000+ Movies/TV Shows**.
-* For more understanding of the project, refer [IMDB-Movies(60000)-Web-Scrapping.ipynb](https://github.com/manthanpatel98/Web-Scrapping-Movie-Data/blob/master/IMDB-Movies(60000)-Web-Scrapping.ipynb)
+* For more understanding of the project, refer [IMDB-Movies(60000)-Web-Scraping.ipynb](https://github.com/manthanpatel98/Web-Scrapping-Movie-Data/blob/master/IMDB-Movies(60000)-Web-Scrapping.ipynb)
 
 * Finally, I have created [**Data Visualization with PowerBI**](https://github.com/manthanpatel98/Web-Scrapping-Movie-Data) for this data.
 
