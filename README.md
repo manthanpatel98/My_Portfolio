@@ -18,7 +18,7 @@
 * Here, I have manually chosen images of Covid-19 and Normal State.
 * Entire model is trained on total around **400 images**.
 * For testing, I have used around **50 images**.
-* A Proper explanation of model is also given.
+* A Proper **explanation of model** is also given.
 
 ### [**Web App on Heroku**](https://covidxraydetection.herokuapp.com/)
 
@@ -58,7 +58,7 @@
 * **ExtraTreesClassifier** has been used for Feature Selection.
 * I have applied **Artificial Neural Network**, **Random Forest**, **Decision Tree**, **K-NN**, **Naive bayes classification**, **Logistic Regression** and **SVM** algorithms but at the end, **RandomForestClassifier** gave better results.
 
-### [**Web App on Heroku**](https://websitechecker1.herokuapp.com/)
+### **Web App on Heroku:** The Project is no longer available on Heroku
 
 
 <img src="Images/Phishing.gif" width="600" />
