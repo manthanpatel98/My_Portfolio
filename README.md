@@ -13,6 +13,20 @@
 # **Projects**
 ---
 
+## [**Project 8: COVID-19 Detection (X-ray Images):**](https://github.com/manthanpatel98/Covid-19-Detection)
+* Dataset of X-ray Images are taken from [**Kaggle**](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset)
+* Here, I have manually chosen images of Covid-19 and Normal State.
+* Entire model is trained on total around **400 images**.
+* For testing, I have used around **50 images**.
+* A Proper explanation of model is also given.
+
+### [**Web App on Heroku**](https://covidxraydetection.herokuapp.com/)
+
+<img src="Images/Covid.gif" width="600" />
+
+
+
+
 ## [**Project 7: Data Extraction of Movies/TV Shows:**](https://github.com/manthanpatel98/Web-Scrapping-Movie-Data)
 
 * Here, I have used **bs4** (BeautifulSoup) library for **Extracting Movie/TV Show Data**.
