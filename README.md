@@ -6,9 +6,21 @@
 
 
 
-**Here are the Projects & Dashboards that I have made...**
+**Here are the Projects, Dashboards and Blogs that I have made/written...**
 
 ---
+# Blogs:
+## [**1. TFOD Installation & Object Detection with Pre-Trained Model**](https://inblog.in/TFOD-Installation-Object-Detection-ZEBMHporCF)
+* A Blog about How to do installation of TF-1 OD and Object Detection with Pre-Trained TF-1 Model.
+
+<img src="Images/tensorflow.png" width="500"/>
+
+## [**2. Building Custom Model using TFOD Pre-Trained Model Weights**](https://inblog.in/Building-Custom-TFOD-Model-g575FfnYE5)
+* A Blog about How to Prepare Annotated Dataset & How to train your own custom model for fruit detection using pre-trained model weights.
+
+<img src="Images/img1.png" width="400" />
+
+
 
 # **Projects**
 ---
