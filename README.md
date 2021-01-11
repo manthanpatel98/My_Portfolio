@@ -25,6 +25,14 @@
 # **Projects**
 ---
 
+## [**Project 9: Product Ingredients Label Checker:**](https://github.com/manthanpatel98/Product_Ingredient)
+
+* For the project, I have done a research on most common **harmful** and **natural** ingredients which are used in the Shmapoo.
+* The Project is a combination of **OCR** + **Text Scraping** + **Image Scraping** + **Study regarding common harmful & natural Ingredients in Product**
+
+<img src="Images/Product_Ing.gif" width="600" />
+
+
 ## [**Project 8: COVID-19 Detection (X-ray Images):**](https://github.com/manthanpatel98/Covid-19-Detection)
 * Dataset of X-ray Images are taken from [**Kaggle**](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset)
 * Here, I have manually chosen images of Covid-19 and Normal State.
