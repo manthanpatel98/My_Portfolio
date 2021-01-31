@@ -25,12 +25,26 @@
 # **Projects**
 ---
 
-## [**Project 9: Product Ingredients Label Checker:**](https://github.com/manthanpatel98/Product_Ingredient)
+## [**Project 11: Mask Detection with Person Identification:**](https://github.com/manthanpatel98/Mask_Detection_with_Person_Identification)
+
+* Project is a combination of **Object detection** model and **Image classification** model, to detect person with no mask and identifying that person to store the data in a downloadable csv file with UI.
+
+<img src="Images/gif.gif" />
+
+
+## [**Project 10: Product Ingredients Label Checker:**](https://github.com/manthanpatel98/Product_Ingredient)
 
 * For the project, I have done a research on most common **harmful** and **natural** ingredients which are used in the Shmapoo.
 * The Project is a combination of **OCR** + **Text Scraping** + **Image Scraping** + **Study regarding common harmful & natural Ingredients in Product**
 
 <img src="Images/Product_Ing.gif" width="600" />
+
+
+## [**Project 9: 2020 Kaggle Machine Learning & Data Science Survey :**](https://www.kaggle.com/manthan987patel/interesting-insights-of-ml-ds-survey-2020)
+
+* This is Kaggle's annual Machine Learning and Data Science Survey competition for presenting a **story of the data science community**.
+
+<img src="Images/intro.png" width="600" />
 
 
 ## [**Project 8: COVID-19 Detection (X-ray Images):**](https://github.com/manthanpatel98/Covid-19-Detection)
