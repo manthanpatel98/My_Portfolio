@@ -34,15 +34,16 @@
 
 ## [**Project 11: Product Ingredients Label Checker:**](https://github.com/manthanpatel98/Product_Ingredient)
 
-* This project is built for classifying total 10 different type of cloths and accessories with **VGG** Image Classification Model.
+* For the project, I have done a research on most common **harmful** and **natural** ingredients which are used in the Shmapoo.
+* The Project is a combination of **OCR** + **Text Scraping** + **Image Scraping** + **Study regarding common harmful & natural Ingredients in Product**
 
 <img src="Images/Product_Ing.gif" width="600" />
 
 
 ## [**Project 10: Cloths & Accesory Classification:**](https://github.com/manthanpatel98/Cloths-AccessoryClassification)
 
-* For the project, I have done a research on most common **harmful** and **natural** ingredients which are used in the Shmapoo.
-* The Project is a combination of **OCR** + **Text Scraping** + **Image Scraping** + **Study regarding common harmful & natural Ingredients in Product**
+* This project is built for classifying total 10 different type of cloths and accessories with **VGG** Image Classification Model.
+
 
 <img src="Images/cloth-classification.gif" width="600" />
 
