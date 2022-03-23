@@ -1,5 +1,5 @@
 
-<img src="Images/My_pic3.jpg" width="250" height="250">
+<img src="Images/MyPic.jpg" width="250" height="250">
 
 
 # **Manthan Patel**
