@@ -61,6 +61,7 @@
 * Entire model is trained on total around **400 images**.
 * For testing, I have used around **50 images**.
 * A Proper **explanation of model** is also given.
+* **Note:** Purpose of this test project is to learn how to build a CNN model. It does not claim any guarantee of anything.
 
 ### [**Web App on Heroku**](https://covidxraydetection.herokuapp.com/)
 
